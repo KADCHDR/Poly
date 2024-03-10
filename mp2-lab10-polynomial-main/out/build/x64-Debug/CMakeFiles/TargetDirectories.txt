@@ -1,0 +1,17 @@
+C:/Users/Reaper/Desktop/mp2-lab10-polynomial-main/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Reaper/Desktop/mp2-lab10-polynomial-main/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Reaper/Desktop/mp2-lab10-polynomial-main/out/build/x64-Debug/main/CMakeFiles/main.dir
+C:/Users/Reaper/Desktop/mp2-lab10-polynomial-main/out/build/x64-Debug/main/CMakeFiles/edit_cache.dir
+C:/Users/Reaper/Desktop/mp2-lab10-polynomial-main/out/build/x64-Debug/main/CMakeFiles/rebuild_cache.dir
+C:/Users/Reaper/Desktop/mp2-lab10-polynomial-main/out/build/x64-Debug/List/CMakeFiles/List.dir
+C:/Users/Reaper/Desktop/mp2-lab10-polynomial-main/out/build/x64-Debug/List/CMakeFiles/edit_cache.dir
+C:/Users/Reaper/Desktop/mp2-lab10-polynomial-main/out/build/x64-Debug/List/CMakeFiles/rebuild_cache.dir
+C:/Users/Reaper/Desktop/mp2-lab10-polynomial-main/out/build/x64-Debug/Polynomial/CMakeFiles/Polynomial.dir
+C:/Users/Reaper/Desktop/mp2-lab10-polynomial-main/out/build/x64-Debug/Polynomial/CMakeFiles/edit_cache.dir
+C:/Users/Reaper/Desktop/mp2-lab10-polynomial-main/out/build/x64-Debug/Polynomial/CMakeFiles/rebuild_cache.dir
+C:/Users/Reaper/Desktop/mp2-lab10-polynomial-main/out/build/x64-Debug/gtest/CMakeFiles/gtest.dir
+C:/Users/Reaper/Desktop/mp2-lab10-polynomial-main/out/build/x64-Debug/gtest/CMakeFiles/edit_cache.dir
+C:/Users/Reaper/Desktop/mp2-lab10-polynomial-main/out/build/x64-Debug/gtest/CMakeFiles/rebuild_cache.dir
+C:/Users/Reaper/Desktop/mp2-lab10-polynomial-main/out/build/x64-Debug/test/CMakeFiles/MP2_TESTS.dir
+C:/Users/Reaper/Desktop/mp2-lab10-polynomial-main/out/build/x64-Debug/test/CMakeFiles/edit_cache.dir
+C:/Users/Reaper/Desktop/mp2-lab10-polynomial-main/out/build/x64-Debug/test/CMakeFiles/rebuild_cache.dir
